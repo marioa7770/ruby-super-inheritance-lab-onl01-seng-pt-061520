@@ -5,5 +5,5 @@ def hello
   end
 
 def raise_hand
-super
+
 puts "Pick me!"
