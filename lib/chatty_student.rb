@@ -1,2 +1,2 @@
-class ChattyStudent
+class ChattyStudent < student
 def hello >
